@@ -29,6 +29,7 @@ The goal is to transform raw data into structured insights using Python-based da
 ---
 
 ##  Analysis Performed
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/fbea6939-f62b-4fc3-b3cc-139c80a76640" />
 
 ### 🔹 Data Cleaning
 
